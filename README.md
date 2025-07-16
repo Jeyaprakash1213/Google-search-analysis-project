@@ -28,7 +28,7 @@ Make sure Python is installed on your system, then install dependencies:
 ```bash
 pip install pytrends pandas matplotlib
 ```
-## 🔧 How It Works
+🔧 How It Works
 1.Connect to Google Trends
 ```python
 from pytrends.request import TrendReq
@@ -110,7 +110,7 @@ print(df)
 
 If you'd like to contribute, feel free to fork the repository and open a pull request with your improvements or suggestions!
 ---
-📄 Licens
+📄 License
 
 This project is licensed under the MIT License.
 ---
